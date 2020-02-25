@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: GoogleTagManager for YOURLS
-Plugin URI: https://tanner.technology/GTM
+Plugin URI: https://github.com/dkstanner/GTM-for-YOURLS
 Description: Adds google tag manager tracking to every clicked link
 Version: 1
 Author: Tanner Anderson
