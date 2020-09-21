@@ -36,4 +36,6 @@ function gtm_add_tracking( $args ) {
     echo "<p>Please <a href='$url'>click here</a> if you are not automatically redirected.</p>";
     echo "</body>";
     echo "</html>";
+    yourls_redirect_javascript( $url );
+    exit;
 }
