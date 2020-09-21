@@ -3,7 +3,7 @@
 Plugin Name: GoogleTagManager for YOURLS
 Plugin URI: https://github.com/dorks-delivered/GTM-for-YOURLS
 Description: Adds google tag manager tracking to every clicked link
-Version: 1
+Version: 2
 Author: Dorks Delivered
 Author URI: https://dorks.com.au/
 */
